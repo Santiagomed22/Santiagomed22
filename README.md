@@ -22,7 +22,7 @@
 
 ### 🏆 Trophies 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Santiagomed22&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Santiagomed22&theme=onedark)](//https://github.com/Santiagomed22/github-profile-trophy)
 
 ### 👺 statistics about me 👺
 
