@@ -5,7 +5,7 @@
 ![github-header-image](https://github.com/Santiagomed22/Santiagomed22/assets/165338578/9cf1b3f2-4589-4355-9d52-8903de264535)
 
 
-### 📲 Redes Sociales 📲
+### 📲 My social Networks 📲
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/santiagomed22?igsh=ZThtYWU2cjJwYnYy&utm_source=qr)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100081871595418&mibextid=LQQJ4d)
@@ -24,7 +24,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Santiagomed22&theme=onedark)](//https://github.com/Santiagomed22/github-profile-trophy)
 
-### 👺 statistics about me 👺
+### 👺 statistics About Me 👺
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiagomed22&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiagomed22&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
